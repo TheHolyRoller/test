@@ -5,6 +5,8 @@
 
   export default function Home() {
     
+
+    
     // Add in the call trigger function here 
     const triggerLambdaFunction = async () => {
       try {
